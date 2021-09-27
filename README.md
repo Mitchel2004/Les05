@@ -1,6 +1,6 @@
 # Donut Recept
 
-![DonutAfbeelding](DonutRecept.png)
+![DonutAfbeelding](DonutRecept.PNG)
 
 ## INGREDIËNTEN:
 - 350g bloem
